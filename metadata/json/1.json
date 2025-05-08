@@ -1,0 +1,15 @@
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "image": "https://ipfs.io/ipfs/QmSC2bgR74QexkvnAFFQJK7hFrUu5noBTWdMC6w2dvNcfK", 
+  "name": "Dave Starbelly",
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
+  ]
+}
