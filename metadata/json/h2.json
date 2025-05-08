@@ -1,15 +1,11 @@
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "description": "This is a very beautiful artwork.", 
   "image": "https://raw.githubusercontent.com/1204872800/artwork/main/metadata/img/h2.png",
-  "name": "Dave Starbelly",
+  "name": "Handheld teapot",
   "attributes": [
     {
-      "trait_type": "Base", 
-      "value": "Starfish"
-    }, 
-    {
-      "trait_type": "Eyes", 
-      "value": "Big"
+      "trait_type": "Color", 
+      "value": "golden"
     }
   ]
 }
