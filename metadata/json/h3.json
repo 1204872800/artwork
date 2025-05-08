@@ -1,0 +1,15 @@
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "image": "https://raw.githubusercontent.com/1204872800/artwork/main/metadata/img/h3.png",
+  "name": "Dave Starbelly",
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
+  ]
+}
